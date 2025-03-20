@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-    return "https://localhost:5000"
+    return "https://the-kitab-art-b.vercel.app/server"
 }
 
 export default getBaseUrl;
